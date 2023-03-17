@@ -1,5 +1,8 @@
 # altschool-final-exam
 
+## Netlify Deployment Link
+click here: https://vue-counterr-app.netlify.app/
+
 ## Project setup
 ```
 npm install
