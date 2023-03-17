@@ -1,4 +1,4 @@
-# altschool-third-sem-exam-proj
+# altschool-final-exam
 
 ## Project setup
 ```
