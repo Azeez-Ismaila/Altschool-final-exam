@@ -4,18 +4,9 @@
   <router-view />
   <FooterPage/>
 </div>
-
-   <!-- <div id="nav">
-   <div>Akande Counter App</div>
-        <router-link to="/">Home</router-link> |
-        <router-link to="/about">About</router-link> |
-        <router-link to="/counter">Counter</router-link>
-      </div> -->
-   <!-- <router-view/> -->
 </template>
 
 <script>
-// import NavLink from './components/NavLink.vue';
 import NavBar from './components/NavBar.vue';
 import FooterPage from "./components/FooterPage.vue"
 export default { 
